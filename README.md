@@ -31,13 +31,6 @@
 
 ## 🍍Github Stats:
 
-
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=gargeesuresh&show_icons=true&locale=en" alt="gargeesuresh" style="max-width: 50px;" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gargeesuresh&" alt="gargeesuresh" style="max-width: 50px;" />
-</p>
-
 [
 ![gargee's github activity graph](https://activity-graph.herokuapp.com/graph?username=gargeesuresh)](https://activity-graph.herokuapp.com/graph?username=gargeesuresh)
 </br>
