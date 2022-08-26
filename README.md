@@ -19,7 +19,7 @@
 <div align="center" width="50">
 
 </div>
-<img align="right" alt="GIF" src="https://github.com/gargeesuresh/gargeesuresh/blob/main/girl%20coding%20gif.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://github.com/gargeesuresh/gargeesuresh/blob/main/girl.gif" height="200px" width="300px"/>
 
 ## About me
 - 🌱 &nbsp; I’m currently learning DevOps, a bit of Web Development and trying to get better at problem solving!
