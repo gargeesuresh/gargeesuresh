@@ -14,14 +14,16 @@
 <img src="https://github.com/gargeesuresh/gargeesuresh/blob/main/top.gif" alt="alt text" style="max-width: 100%;">
 <div align="center" width="50">
 
-div style="text-align: left"> </div>
+</div>
+<img align="right" alt="GIF" src="https://github.com/gargeesuresh/gargeesuresh/blob/main/girl%20coding%20gif.gif" width="300px"/>
 
 ## About me
-- 🌱 I’m currently learning DevOps, a bit of Web Development and trying to get better at problem solving!
-- 👯 I’m looking to collaborate with others and grow together
-- 🥅 2022 Goals: Contribute more to Open Source projects, participate in more Hackathons, start a tech blog!
-- ⚡ Favorite emojis: 🥕 🍉 🦄 ⚡
-
+- 🌱 &nbsp; I’m currently learning DevOps, a bit of Web Development and trying to get better at problem solving!
+- 👯 &nbsp; I’m looking to collaborate with others and grow together
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/gargeesuresh?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gargee-suresh/)
+- 📝 &nbsp; Checkout my [resume]()
+<br>
 
 ## 🍍Github Stats:
 [
