@@ -1,4 +1,16 @@
-<h1 align="center">Whatcha Doin'?🥕</h1>
+<h4 align="center">     Hi, I'm Gargee Suresh. Welcome to my GitHub! </h4>
+<p align="center">I'm a Software Developer, Graphic Designer, Illustrator, Artist and Freelancer! I'm currently learning DevOps and exploring Web Development. I'm always looking forward to meet new people, learn new stuff, and collaborate. Feel free to reach out to me, let's connect! </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/gargee-suresh/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="gargeesuresh" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_a_gummyy_bear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_a_gummyy_bear" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10394568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10394568" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gargeesuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gargeesuresh" height="30" width="40" /></a>
+<a href="https://twitter.com/gargeesuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gargeesuresh" height="30" width="40" /></a>
+</p>
+
+<hr>
+<h1 align="center">Whatcha Doin'?🥕</p>
+
 <img src="https://github.com/gargeesuresh/gargeesuresh/blob/main/top.gif" alt="alt text" style="max-width: 100%;">
 <div align="center" width="50">
 
@@ -13,11 +25,6 @@
 
  
 <h3 align="centre">Connect with me:</h3>
-<p align="centre">
-<a href="https://twitter.com/gargeesuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gargeesuresh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10394568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10394568" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_a_gummyy_bear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_a_gummyy_bear" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gargeesuresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gargeesuresh" height="30" width="40" /></a>
-</p>
+
 
 <img src="https://github.com/gargeesuresh/gargeesuresh/blob/main/Bottom.gif" alt="alt text" style="max-width: 100%;">
