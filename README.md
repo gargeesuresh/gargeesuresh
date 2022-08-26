@@ -1,4 +1,4 @@
-<h1 align="center">Whatcha Doin'?</h1>
+<h1 align="center">Whatcha Doin'?🥕</h1>
 <h3 align="center">I'm a passionate Software Engineer from Bangalore!</h3>
 <div align="center" width="50">
 
